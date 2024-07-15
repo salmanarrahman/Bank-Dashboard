@@ -1,2 +1,2 @@
-Admin email admin@mail.com
-Admin Password aaaaaaaa
+Admin email : admin@mail.com
+Admin Password :  aaaaaaaa
