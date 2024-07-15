@@ -1,0 +1,30 @@
+[
+    {
+        "amount": "100",
+        "receiverEmail": "salman@gmail.com",
+        "receiverName": "Salman Ar Rahman",
+        "senderEmail": "salman@mail.com",
+        "type": "transfer"
+    },
+    {
+        "amount": "50",
+        "receiverEmail": "salman@gmail.com",
+        "receiverName": "Salman Ar Rahman",
+        "senderEmail": "salman@mail.com",
+        "type": "transfer"
+    },
+    {
+        "amount": "34",
+        "receiverEmail": "salman@gmail.com",
+        "receiverName": "Salman Ar Rahman",
+        "senderEmail": "salman@mail.com",
+        "type": "transfer"
+    },
+    {
+        "amount": "100",
+        "receiverEmail": "salman@mail.com",
+        "receiverName": "Salman Ar Rahman",
+        "senderEmail": "boi@gmail.com",
+        "type": "transfer"
+    }
+]

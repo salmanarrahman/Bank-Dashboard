@@ -1,0 +1,44 @@
+[
+    {
+        "uuid": "6sBexS",
+        "name": "Salman Ar Rahman",
+        "email": "admin@mail.com",
+        "password": "aaaaaaaa",
+        "balance": 234
+    },
+    {
+        "uuid": "dVMbiK",
+        "name": "Salman Ar Rahman",
+        "email": "salman@mail.com",
+        "password": "11111111",
+        "balance": 1356
+    },
+    {
+        "uuid": "dQeE13",
+        "name": "bwoi",
+        "email": "boi@gmail.com",
+        "password": "00000000",
+        "balance": 400
+    },
+    {
+        "uuid": "MEhQLU",
+        "name": "fokir",
+        "email": "ling@enzan-k.com",
+        "password": "11111111",
+        "balance": 0
+    },
+    {
+        "uuid": "gSJ0iu",
+        "name": "hi",
+        "email": "hi@gmail.com",
+        "password": "1111111111",
+        "balance": 0
+    },
+    {
+        "uuid": "lLM2eZ",
+        "name": "hello",
+        "email": "hia@gmail.com",
+        "password": "asdfghjkl",
+        "balance": 0
+    }
+]
